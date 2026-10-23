@@ -117,3 +117,9 @@ Author
 Bakre Tinuola - Data Analytics Capstone Project
 
 Developed using Microsoft Power BI, Microsoft Excel, Power Query and DAX.
+
+
+<img width="1150" height="732" alt="image" src="https://github.com/user-attachments/assets/0f5c3454-db2f-4210-9173-31375017c6f6" />
+
+<img width="1346" height="782" alt="image" src="https://github.com/user-attachments/assets/03220c92-bfe5-403e-b9d4-294b324dc078" />
+
